@@ -52,6 +52,7 @@ h5 {
   grid-row: 3 / span 4;
 }
 .comedian-box {
+  border: 1px solid white;
   border-radius: 10px;
   text-align: center;
   width: 45%;
@@ -89,6 +90,8 @@ h5 {
 }
 
 #statistics {
+  border: 1px solid white;
+  border-radius: 10px;
   text-align: center;
   width: 100%;
   grid-column: 1 / span 2;
